@@ -44,3 +44,8 @@
 "settings" = "Settings";
 "app_language" = "Current language";
 "menu_info" = "Info";
+
+/* tab_bar_title
+tab_bar_title
+It's a title displayed on the top */
+"tab_bar_title" = "تبويب اللغة الإنجليزية المثالية";

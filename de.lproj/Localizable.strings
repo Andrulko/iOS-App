@@ -1,5 +1,5 @@
-"app_name" = "Crowdin TODO";
-"dashboard" = "Dashboard";
+"app_name" = "Crowdin TODO %1$@ %2$@";
+"dashboard" = "Dashboard %@";
 "category" = "Category";
 "history" = "History";
 "add_task" = "Add Task";

@@ -1,8 +1,8 @@
 "app_name" = "Crowdin TODO %1$@ %2$@";
-"dashboard" = "Dashboard %@";
-"category" = "Category";
-"history" = "History";
-"add_task" = "Add Task";
+"dashboard" = "Tableau de bord … %@";
+"category" = "Catégorie";
+"history" = "Historique";
+"add_task" = "Ajouter une tâche";
 "action_done" = "Done";
 "task_title" = "Task Title";
 "enter_task_title" = "Enter task title";
